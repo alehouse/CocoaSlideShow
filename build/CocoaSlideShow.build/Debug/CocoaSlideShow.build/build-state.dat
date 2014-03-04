@@ -1,0 +1,1106 @@
+TCocoaSlideShow
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Info.plist /Volumes/SHARED/alehouse/CocoaSlideShow/Info.plist
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate.o /Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/main.o /Volumes/SHARED/alehouse/CocoaSlideShow/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppleRemote.o /Volumes/SHARED/alehouse/CocoaSlideShow/AppleRemote.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/HIDRemoteControlDevice.o /Volumes/SHARED/alehouse/CocoaSlideShow/HIDRemoteControlDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/RemoteControl.o /Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSFileManager+CSS.o /Volumes/SHARED/alehouse/CocoaSlideShow/NSFileManager+CSS.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSWindow.o /Volumes/SHARED/alehouse/CocoaSlideShow/CSSWindow.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageInfo.o /Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageInfo.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSString+CSS.o /Volumes/SHARED/alehouse/CocoaSlideShow/NSString+CSS.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/ImagesController.o /Volumes/SHARED/alehouse/CocoaSlideShow/ImagesController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate+Toolbar.o /Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate+Toolbar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageView.o /Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSMapController.o /Volumes/SHARED/alehouse/CocoaSlideShow/CSSMapController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSBorderlessWindow.o /Volumes/SHARED/alehouse/CocoaSlideShow/CSSBorderlessWindow.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSImage+CSS.o /Volumes/SHARED/alehouse/CocoaSlideShow/NSImage+CSS.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/MacOS/CocoaSlideShow normal i386
+cCopyStringsFile /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource CocoaSlideShow.icns build/Debug/CocoaSlideShow.app/Contents/Resources/CocoaSlideShow.icns
+cCpResource Credits.html build/Debug/CocoaSlideShow.app/Contents/Resources/Credits.html
+cCompileXIB /Volumes/SHARED/alehouse/CocoaSlideShow/English.lproj/MainMenu.xib
+cCompileXIB /Volumes/SHARED/alehouse/CocoaSlideShow/French.lproj/MainMenu.xib
+cCpResource Flagged.png build/Debug/CocoaSlideShow.app/Contents/Resources/Flagged.png
+cCpResource FlaggedHeader.png build/Debug/CocoaSlideShow.app/Contents/Resources/FlaggedHeader.png
+cCpResource right.png build/Debug/CocoaSlideShow.app/Contents/Resources/right.png
+cCpResource slideshow.png build/Debug/CocoaSlideShow.app/Contents/Resources/slideshow.png
+cCpResource trash.png build/Debug/CocoaSlideShow.app/Contents/Resources/trash.png
+cCpResource remove.png build/Debug/CocoaSlideShow.app/Contents/Resources/remove.png
+cCpResource fullscreen.png build/Debug/CocoaSlideShow.app/Contents/Resources/fullscreen.png
+cCpResource left.png build/Debug/CocoaSlideShow.app/Contents/Resources/left.png
+cCpResource flag.png build/Debug/CocoaSlideShow.app/Contents/Resources/flag.png
+cCpResource folder.png build/Debug/CocoaSlideShow.app/Contents/Resources/folder.png
+cCpResource add.png build/Debug/CocoaSlideShow.app/Contents/Resources/add.png
+cCpResource gmap.png build/Debug/CocoaSlideShow.app/Contents/Resources/gmap.png
+cCpResource gmap.html build/Debug/CocoaSlideShow.app/Contents/Resources/gmap.html
+cCopyPlistFile /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/UserDefaults.plist UserDefaults.plist
+cCopyStringsFile /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+cCopyStringsFile /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/French.lproj/Localizable.strings French.lproj/Localizable.strings
+cCpResource css_dsa_pub.pem build/Debug/CocoaSlideShow.app/Contents/Resources/css_dsa_pub.pem
+cPBXCp Epeg.framework build/Debug/CocoaSlideShow.app/Contents/Frameworks/Epeg.framework
+cPBXCp Sparkle.framework build/Debug/CocoaSlideShow.app/Contents/Frameworks/Sparkle.framework
+cTouch /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk
+c000000004FC52ACF00000000000000EE
+t1338321615
+s238
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/SDKSettings.plist
+c000000004FC52ACF000000000000050B
+t1338321615
+s1291
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000004FC52ACF00000000000001DF
+t1338321615
+s479
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Quartz
+c000000004FC52AFC00000000000036E0
+t1338321660
+s14048
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000005207E44000000000000069F0
+t1376248896
+s27120
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000005207E4400000000000006730
+t1376248896
+s26416
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000005207E44C0000000000130950
+t1376248908
+s1247568
+
+N/System/Library/Frameworks/WebKit.framework/WebKit
+c000000005207E45B000000000044D4D0
+t1376248923
+s4510928
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate+Toolbar.m
+c000000005315E7900000000000001BE5
+t1393944464
+s7141
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate.m
+c000000005315E7900000000000005F99
+t1393944464
+s24473
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/AppleRemote.m
+c000000005315E7900000000000001483
+t1393944464
+s5251
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/CSSBorderlessWindow.m
+c000000005315E7900000000000000252
+t1393944464
+s594
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageInfo.m
+c000000005315E79000000000000035FC
+t1393944464
+s13820
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.m
+c000000005315E7900000000000000580
+t1393944464
+s1408
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/CSSMapController.m
+c000000005315E79000000000000015A6
+t1393944464
+s5542
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/CSSWindow.m
+c000000005315E79000000000000002D5
+t1393944464
+s725
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/CocoaSlideShow.icns
+c000000005315E790000000000000CBCA
+t1393944464
+s52170
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/Credits.html
+c000000005315E7900000000000000098
+t1393944464
+s152
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/English.lproj/InfoPlist.strings
+c000000005315E79000000000000000D8
+t1393944464
+s216
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/English.lproj/Localizable.strings
+c000000005315E7900000000000000738
+t1393944464
+s1848
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/English.lproj/MainMenu.xib
+c000000005315E790000000000003EC19
+t1393944464
+s257049
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/Epeg.framework
+c000000005315E7900000000000008000
+t1393944464
+s32768
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/Epeg.framework/Epeg
+c000000005315E7900000000000064F50
+t1393944464
+s413520
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/Flagged.png
+c000000005315E7900000000000000294
+t1393944464
+s660
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/FlaggedHeader.png
+c000000005315E7900000000000000093
+t1393944464
+s147
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/French.lproj/Localizable.strings
+c000000005315E790000000000000091E
+t1393944464
+s2334
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/French.lproj/MainMenu.xib
+c000000005315E790000000000003F2DA
+t1393944464
+s258778
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/HIDRemoteControlDevice.m
+c000000005315E79000000000000041F1
+t1393944464
+s16881
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/ImagesController.m
+c000000005315E79000000000000015E6
+t1393944464
+s5606
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/Info.plist
+c000000005315E7900000000000000512
+t1393944464
+s1298
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/NSFileManager+CSS.m
+c000000005315E79000000000000007F1
+t1393944464
+s2033
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/NSImage+CSS.m
+c000000005315E7900000000000001632
+t1393944464
+s5682
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/NSString+CSS.m
+c000000005315E79000000000000002F6
+t1393944464
+s758
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.m
+c000000005315E7900000000000000F8C
+t1393944464
+s3980
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/Sparkle.framework
+c000000005315E7900000000000008000
+t1393944464
+s32768
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/Sparkle.framework/Sparkle
+c000000005315E79000000000000712B4
+t1393944464
+s463540
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/UserDefaults.plist
+c000000005315E790000000000000019D
+t1393944464
+s413
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/add.png
+c000000005315E790000000000000052E
+t1393944464
+s1326
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate+Toolbar.o
+t1393944502
+s54468
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate.o
+t1393944500
+s133328
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppleRemote.o
+t1393944500
+s20392
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSBorderlessWindow.o
+t1393944502
+s14336
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageInfo.o
+t1393944502
+s49136
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageView.o
+t1393944502
+s19496
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSMapController.o
+t1393944502
+s49952
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSWindow.o
+t1393944502
+s33612
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CocoaSlideShow.LinkFileList
+c000000005315E7B400000000000007A7
+t1393944500
+s1959
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/HIDRemoteControlDevice.o
+t1393944500
+s44924
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/ImagesController.o
+t1393944502
+s55324
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSFileManager+CSS.o
+t1393944502
+s10116
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSImage+CSS.o
+t1393944502
+s23476
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSString+CSS.o
+t1393944502
+s6848
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/RemoteControl.o
+t1393944502
+s14692
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/main.o
+t1393944500
+s2536
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app
+t1393944500
+s32768
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Frameworks/Epeg.framework
+t1393944502
+s32768
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Frameworks/Sparkle.framework
+t1393944502
+s32768
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Info.plist
+t1393944500
+s1721
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/MacOS/CocoaSlideShow
+t1393944502
+s160428
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/PkgInfo
+t1393944500
+s8
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/CocoaSlideShow.icns
+t1393944502
+s52170
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/Credits.html
+t1393944502
+s152
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1393944502
+s216
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj/Localizable.strings
+t1393944502
+s3682
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj/MainMenu.nib
+t1393944502
+s59070
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/Flagged.png
+t1393944502
+s660
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/FlaggedHeader.png
+t1393944502
+s147
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/French.lproj/Localizable.strings
+t1393944502
+s4624
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/French.lproj/MainMenu.nib
+t1393944502
+s60194
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/UserDefaults.plist
+t1393944502
+s413
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/add.png
+t1393944502
+s1326
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/css_dsa_pub.pem
+t1393944502
+s1178
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/flag.png
+t1393944502
+s1455
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/folder.png
+t1393944502
+s1665
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/fullscreen.png
+t1393944502
+s1097
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/gmap.html
+t1393944502
+s4118
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/gmap.png
+t1393944502
+s1562
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/left.png
+t1393944502
+s2065
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/remove.png
+t1393944502
+s928
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/right.png
+t1393944502
+s2032
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/slideshow.png
+t1393944502
+s1179
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/trash.png
+t1393944502
+s1937
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/css_dsa_pub.pem
+c000000005315E790000000000000049A
+t1393944464
+s1178
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/flag.png
+c000000005315E79000000000000005AF
+t1393944464
+s1455
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/folder.png
+c000000005315E7900000000000000681
+t1393944464
+s1665
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/fullscreen.png
+c000000005315E7900000000000000449
+t1393944464
+s1097
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/gmap.html
+c000000005315E7900000000000001016
+t1393944464
+s4118
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/gmap.png
+c000000005315E790000000000000061A
+t1393944464
+s1562
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/left.png
+c000000005315E7900000000000000811
+t1393944464
+s2065
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/main.m
+c000000005315E7900000000000000107
+t1393944464
+s263
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/remove.png
+c000000005315E79000000000000003A0
+t1393944464
+s928
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/right.png
+c000000005315E79000000000000007F0
+t1393944464
+s2032
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/slideshow.png
+c000000005315E790000000000000049B
+t1393944464
+s1179
+
+N/Volumes/SHARED/alehouse/CocoaSlideShow/trash.png
+c000000005315E7900000000000000791
+t1393944464
+s1937
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6c9465351fc6b841^b0ca71351fc6b841^-143"OS X deployment target '10.7' for architecture 'i386' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.1(21%IDEActivityLogMessage2@142"OS X deployment target '10.7' for architecture 'i386' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.-415637301#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"6BA555D0-6DB7-4FB2-8DB5-DB3DA615A9C8-
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate+Toolbar.o /Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate+Toolbar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637302.205506
+e415637302.550246
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate+Toolbar.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate+Toolbar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate+Toolbar.m
+d/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate+Toolbar.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/ImagesController.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSMapController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate+Toolbar.m210"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate+Toolbar.o [1mAppDelegate+Toolbar.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere2ac34361fc6b841^9be78c361fc6b841^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate+Toolbar.m0000000000000000^2786"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate+Toolbar.o [1mAppDelegate+Toolbar.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate+Toolbar.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate+Toolbar.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate+Toolbar.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate+Toolbar.o36"AA3C0853-8D01-4991-818E-96BFCED9335C-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate.o /Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637301.459692
+e415637301.910030
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate.m
+d/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/ImagesController.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSMapController.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/AppleRemote.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/HIDRemoteControlDevice.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/NSFileManager+CSS.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/Sparkle.framework/Headers/SUUpdater.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/Sparkle.framework/Headers/SUVersionComparisonProtocol.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSBorderlessWindow.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/NSImage+CSS.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageInfo.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate.m194"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate.o [1mAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3fc975351fc6b841^1216e9351fc6b841^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate.m0000000000000000^2738"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate.o [1mAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate.o36"CE56189E-3B03-4838-9EF6-C6429618D811-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppleRemote.o /Volumes/SHARED/alehouse/CocoaSlideShow/AppleRemote.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637301.459717
+e415637301.793293
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppleRemote.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/AppleRemote.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/AppleRemote.m
+d/Volumes/SHARED/alehouse/CocoaSlideShow/AppleRemote.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/HIDRemoteControlDevice.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/AppleRemote.m194"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppleRemote.o [1mAppleRemote.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0cc975351fc6b841^2926cb351fc6b841^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/AppleRemote.m0000000000000000^2738"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppleRemote.o [1mAppleRemote.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppleRemote.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppleRemote.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/AppleRemote.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppleRemote.o36"AED64BB4-B7A0-4DA5-8902-ED451CA49DE6-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSBorderlessWindow.o /Volumes/SHARED/alehouse/CocoaSlideShow/CSSBorderlessWindow.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637302.461283
+e415637302.765581
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSBorderlessWindow.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/CSSBorderlessWindow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSBorderlessWindow.m
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSBorderlessWindow.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/CSSBorderlessWindow.m210"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSBorderlessWindow.o [1mCSSBorderlessWindow.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera22676361fc6b841^50fdc3361fc6b841^---0#0#1#-19%DVTDocumentLocation2@77"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/CSSBorderlessWindow.m0000000000000000^2786"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSBorderlessWindow.o [1mCSSBorderlessWindow.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSBorderlessWindow.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSBorderlessWindow.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/CSSBorderlessWindow.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSBorderlessWindow.o36"1692C224-30CD-4181-B301-8BB6FE5F577B-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageInfo.o /Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageInfo.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637301.911679
+e415637302.277528
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageInfo.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageInfo.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageInfo.m
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageInfo.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/NSString+CSS.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/ImagesController.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSMapController.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/NSFileManager+CSS.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/NSImage+CSS.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageInfo.m196"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageInfo.o [1mCSSImageInfo.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0c74e9351fc6b841^350c47361fc6b841^---0#0#1#-19%DVTDocumentLocation2@70"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageInfo.m0000000000000000^2744"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageInfo.o [1mCSSImageInfo.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageInfo.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageInfo.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageInfo.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageInfo.o36"EE468667-D784-40FC-8B5C-3BB2BBE065D0-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageView.o /Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637302.278786
+e415637302.587486
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageView.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.m
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.m196"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageView.o [1mCSSImageView.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler616e47361fc6b841^cf6596361fc6b841^---0#0#1#-19%DVTDocumentLocation2@70"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.m0000000000000000^2744"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageView.o [1mCSSImageView.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageView.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageView.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageView.o36"72B06D87-356E-4E13-A1D5-103E440BB273-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSMapController.o /Volumes/SHARED/alehouse/CocoaSlideShow/CSSMapController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637302.409876
+e415637302.741417
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSMapController.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/CSSMapController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSMapController.m
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSMapController.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageInfo.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/ImagesController.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/NSImage+CSS.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/CSSMapController.m204"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSMapController.o [1mCSSMapController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf4fd68361fc6b841^c4cdbd361fc6b841^---0#0#1#-19%DVTDocumentLocation2@74"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/CSSMapController.m0000000000000000^2768"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSMapController.o [1mCSSMapController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSMapController.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSMapController.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/CSSMapController.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSMapController.o36"639AA9D8-6C58-4597-9B3B-058451F253B9-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSWindow.o /Volumes/SHARED/alehouse/CocoaSlideShow/CSSWindow.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637301.868903
+e415637302.203868
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSWindow.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/CSSWindow.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSWindow.m
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSWindow.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/ImagesController.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSMapController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/CSSWindow.m190"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSWindow.o [1mCSSWindow.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8881de351fc6b841^ad3134361fc6b841^---0#0#1#-19%DVTDocumentLocation2@67"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/CSSWindow.m0000000000000000^2726"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSWindow.o [1mCSSWindow.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSWindow.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSWindow.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/CSSWindow.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSWindow.o36"418E079E-9935-4A4E-B294-C330E87FD77D-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/HIDRemoteControlDevice.o /Volumes/SHARED/alehouse/CocoaSlideShow/HIDRemoteControlDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637301.459721
+e415637301.867562
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/HIDRemoteControlDevice.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/HIDRemoteControlDevice.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/HIDRemoteControlDevice.m
+d/Volumes/SHARED/alehouse/CocoaSlideShow/HIDRemoteControlDevice.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/HIDRemoteControlDevice.m216"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/HIDRemoteControlDevice.o [1mHIDRemoteControlDevice.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc5c975351fc6b841^ad18de351fc6b841^---0#0#1#-19%DVTDocumentLocation2@80"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/HIDRemoteControlDevice.m0000000000000000^2804"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/HIDRemoteControlDevice.o [1mHIDRemoteControlDevice.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/HIDRemoteControlDevice.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/HIDRemoteControlDevice.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/HIDRemoteControlDevice.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/HIDRemoteControlDevice.o36"C6671D57-6E6E-422B-872C-ED05E43755D0-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/ImagesController.o /Volumes/SHARED/alehouse/CocoaSlideShow/ImagesController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637302.109289
+e415637302.459931
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/ImagesController.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/ImagesController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/ImagesController.m
+d/Volumes/SHARED/alehouse/CocoaSlideShow/ImagesController.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageInfo.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/NSFileManager+CSS.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/AppDelegate.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSImageView.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/CSSMapController.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/NSImage+CSS.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/ImagesController.m204"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/ImagesController.o [1mImagesController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6c0a1c361fc6b841^1bbe75361fc6b841^---0#0#1#-19%DVTDocumentLocation2@74"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/ImagesController.m0000000000000000^2768"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/ImagesController.o [1mImagesController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/ImagesController.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/ImagesController.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/ImagesController.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/ImagesController.o36"45A7EF8F-EF2D-44BA-968F-8ACC8CF68E6E-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSFileManager+CSS.o /Volumes/SHARED/alehouse/CocoaSlideShow/NSFileManager+CSS.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637301.794564
+e415637302.108031
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSFileManager+CSS.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/NSFileManager+CSS.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/NSFileManager+CSS.m
+d/Volumes/SHARED/alehouse/CocoaSlideShow/NSFileManager+CSS.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/NSFileManager+CSS.m206"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSFileManager+CSS.o [1mNSFileManager+CSS.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7479cb351fc6b841^eba71b361fc6b841^---0#0#1#-19%DVTDocumentLocation2@75"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/NSFileManager+CSS.m0000000000000000^2774"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSFileManager+CSS.o [1mNSFileManager+CSS.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSFileManager+CSS.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSFileManager+CSS.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/NSFileManager+CSS.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSFileManager+CSS.o36"126AADE3-289D-4F46-8C14-A03DE5DBFA35-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSImage+CSS.o /Volumes/SHARED/alehouse/CocoaSlideShow/NSImage+CSS.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637302.551535
+e415637302.873578
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSImage+CSS.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/NSImage+CSS.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/NSImage+CSS.m
+d/Volumes/SHARED/alehouse/CocoaSlideShow/NSImage+CSS.h
+d/Volumes/SHARED/alehouse/CocoaSlideShow/Epeg.framework/Headers/EpegWrapper.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/NSImage+CSS.m194"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSImage+CSS.o [1mNSImage+CSS.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2d428d361fc6b841^f0a2df361fc6b841^---0#0#1#-19%DVTDocumentLocation2@69"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/NSImage+CSS.m0000000000000000^2738"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSImage+CSS.o [1mNSImage+CSS.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSImage+CSS.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSImage+CSS.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/NSImage+CSS.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSImage+CSS.o36"1604AE4B-D0CA-4AEB-815B-A9DDE1559B83-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSString+CSS.o /Volumes/SHARED/alehouse/CocoaSlideShow/NSString+CSS.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637302.104040
+e415637302.408615
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSString+CSS.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/NSString+CSS.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/NSString+CSS.m
+d/Volumes/SHARED/alehouse/CocoaSlideShow/NSString+CSS.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/NSString+CSS.m196"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSString+CSS.o [1mNSString+CSS.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5fb51a361fc6b841^d89b68361fc6b841^---0#0#1#-19%DVTDocumentLocation2@70"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/NSString+CSS.m0000000000000000^2744"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSString+CSS.o [1mNSString+CSS.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSString+CSS.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSString+CSS.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/NSString+CSS.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSString+CSS.o36"8AD8B2A9-4104-4151-893F-DBB9A4833393-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/RemoteControl.o /Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637301.770453
+e415637302.102114
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/RemoteControl.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.m
+d/Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.m198"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/RemoteControl.o [1mRemoteControl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1f4dc5351fc6b841^25241a361fc6b841^---0#0#1#-19%DVTDocumentLocation2@71"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.m0000000000000000^2750"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/RemoteControl.o [1mRemoteControl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/RemoteControl.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/RemoteControl.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/RemoteControl.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/RemoteControl.o36"F2D325E0-0ED9-455B-8510-A89C531B0574-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileC build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/main.o /Volumes/SHARED/alehouse/CocoaSlideShow/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s415637301.459699
+e415637301.769092
+r1
+xCompileC
+xbuild/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/main.o
+x/Volumes/SHARED/alehouse/CocoaSlideShow/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/SHARED/alehouse/CocoaSlideShow/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Volumes/SHARED/alehouse/CocoaSlideShow/main.m180"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/main.o [1mmain.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler82c975351fc6b841^49f6c4351fc6b841^---0#0#1#-19%DVTDocumentLocation2@62"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/main.m0000000000000000^2696"[1mCompileC[0m build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/main.o [1mmain.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.7 -g -fvisibility=hidden -Wno-sign-conversion -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/CocoaSlideShow.hmap -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources/i386 -I/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/DerivedSources -Wunreachable-code -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -MMD -MT dependencies -MF /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/main.d --serialize-diagnostics /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/main.dia -c /Volumes/SHARED/alehouse/CocoaSlideShow/main.m -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/main.o36"F44BDF7A-BD7D-476E-AFCE-D696567A383B-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileXIB /Volumes/SHARED/alehouse/CocoaSlideShow/English.lproj/MainMenu.xib
+s415637302.956548
+e415637303.473594
+r1
+xCompileXIB
+x/Volumes/SHARED/alehouse/CocoaSlideShow/English.lproj/MainMenu.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compiling /Volumes/SHARED/alehouse/CocoaSlideShow/English.lproj/MainMenu.xib53"[1mCompileXIB[0m [1mEnglish.lproj/MainMenu.xib[0m18eaf4361fc6b841^102279371fc6b841^---0#0#1#-19%DVTDocumentLocation2@82"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/English.lproj/MainMenu.xib0000000000000000^546"[1mCompileXIB[0m [1mEnglish.lproj/MainMenu.xib[0m    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.7 --output-format human-readable-text --compile /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj/MainMenu.nib /Volumes/SHARED/alehouse/CocoaSlideShow/English.lproj/MainMenu.xib36"A5DB6594-8A59-42F8-B51F-4C946D6F3EEF-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCompileXIB /Volumes/SHARED/alehouse/CocoaSlideShow/French.lproj/MainMenu.xib
+s415637302.959960
+e415637303.473179
+r1
+xCompileXIB
+x/Volumes/SHARED/alehouse/CocoaSlideShow/French.lproj/MainMenu.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compiling /Volumes/SHARED/alehouse/CocoaSlideShow/French.lproj/MainMenu.xib52"[1mCompileXIB[0m [1mFrench.lproj/MainMenu.xib[0m04cbf5361fc6b841^ca1a79371fc6b841^---0#0#1#-19%DVTDocumentLocation2@81"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/French.lproj/MainMenu.xib0000000000000000^543"[1mCompileXIB[0m [1mFrench.lproj/MainMenu.xib[0m    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.7 --output-format human-readable-text --compile /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/French.lproj/MainMenu.nib /Volumes/SHARED/alehouse/CocoaSlideShow/French.lproj/MainMenu.xib36"2737941A-C1B8-4607-856A-26CC3CEDB0FC-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCopyPlistFile /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/UserDefaults.plist UserDefaults.plist
+s415637302.984637
+e415637302.987138
+r1
+xCopyPlistFile
+x/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/UserDefaults.plist
+xUserDefaults.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection23"Copy UserDefaults.plist109"[1mCopyPlistFile[0m build/Debug/CocoaSlideShow.app/Contents/Resources/UserDefaults.plist UserDefaults.plistd61cfc361fc6b841^57b5fc361fc6b841^---0#0#1#-19%DVTDocumentLocation2@74"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/UserDefaults.plist0000000000000000^300"[1mCopyPlistFile[0m build/Debug/CocoaSlideShow.app/Contents/Resources/UserDefaults.plist UserDefaults.plist    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copyPlist --outdir /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources -- UserDefaults.plist36"4C0E4257-7FD4-48D3-BE8B-FC7097C13171-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCopyStringsFile /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s415637302.956324
+e415637302.960801
+r1
+xCopyStringsFile
+x/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings137"[1mCopyStringsFile[0m build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings4ce2f4361fc6b841^a5f7f5361fc6b841^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/English.lproj/InfoPlist.strings0000000000000000^415"[1mCopyStringsFile[0m build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"466F6374-C6A5-4E15-937B-0E9F7F539128-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCopyStringsFile /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings
+s415637302.987772
+e415637302.990352
+r1
+xCopyStringsFile
+x/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy English.lproj/Localizable.strings141"[1mCopyStringsFile[0m build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings96e8fc361fc6b841^1d8ffd361fc6b841^---0#0#1#-19%DVTDocumentLocation2@89"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/English.lproj/Localizable.strings0000000000000000^420"[1mCopyStringsFile[0m build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj/Localizable.strings English.lproj/Localizable.strings    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/English.lproj -- English.lproj/Localizable.strings36"0E861349-81DB-45E0-8DF3-DA2A1F19F23A-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCopyStringsFile /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/French.lproj/Localizable.strings French.lproj/Localizable.strings
+s415637302.987979
+e415637302.991648
+r1
+xCopyStringsFile
+x/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/French.lproj/Localizable.strings
+xFrench.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy French.lproj/Localizable.strings139"[1mCopyStringsFile[0m build/Debug/CocoaSlideShow.app/Contents/Resources/French.lproj/Localizable.strings French.lproj/Localizable.strings0ef4fc361fc6b841^22e3fd361fc6b841^---0#0#1#-19%DVTDocumentLocation2@88"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/French.lproj/Localizable.strings0000000000000000^416"[1mCopyStringsFile[0m build/Debug/CocoaSlideShow.app/Contents/Resources/French.lproj/Localizable.strings French.lproj/Localizable.strings    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/French.lproj -- French.lproj/Localizable.strings36"356D6833-58ED-43D1-AAFD-EE801466A7A0-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource CocoaSlideShow.icns build/Debug/CocoaSlideShow.app/Contents/Resources/CocoaSlideShow.icns
+s415637302.956328
+e415637302.961920
+r1
+xCpResource
+xCocoaSlideShow.icns
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/CocoaSlideShow.icns
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/CocoaSlideShow.icns108"[1mCpResource[0m CocoaSlideShow.icns build/Debug/CocoaSlideShow.app/Contents/Resources/CocoaSlideShow.icnsd2e2f4361fc6b841^fb40f6361fc6b841^---0#0#1#-19%DVTDocumentLocation2@125"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/CocoaSlideShow.icns0038b0e9dcffdf42^544"[1mCpResource[0m CocoaSlideShow.icns build/Debug/CocoaSlideShow.app/Contents/Resources/CocoaSlideShow.icns    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/CocoaSlideShow.icns /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"7A2C5F58-BE43-40A6-A99A-09AAF0D62940-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource Credits.html build/Debug/CocoaSlideShow.app/Contents/Resources/Credits.html
+s415637302.956332
+e415637302.958711
+r1
+xCpResource
+xCredits.html
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/Credits.html
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/Credits.html94"[1mCpResource[0m Credits.html build/Debug/CocoaSlideShow.app/Contents/Resources/Credits.html09e2f4361fc6b841^696ef5361fc6b841^---0#0#1#-19%DVTDocumentLocation2@118"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/Credits.html0038b0e9dcffdf42^523"[1mCpResource[0m Credits.html build/Debug/CocoaSlideShow.app/Contents/Resources/Credits.html    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/Credits.html /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"F38AF9C8-6B97-402D-8264-AC6003ADF0BD-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource Flagged.png build/Debug/CocoaSlideShow.app/Contents/Resources/Flagged.png
+s415637302.962140
+e415637302.964166
+r1
+xCpResource
+xFlagged.png
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/Flagged.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/Flagged.png92"[1mCpResource[0m Flagged.png build/Debug/CocoaSlideShow.app/Contents/Resources/Flagged.png7d59f6361fc6b841^2fdbf6361fc6b841^---0#0#1#-19%DVTDocumentLocation2@117"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/Flagged.png0038b0e9dcffdf42^520"[1mCpResource[0m Flagged.png build/Debug/CocoaSlideShow.app/Contents/Resources/Flagged.png    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/Flagged.png /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"27E9DEDB-2ACA-4687-9B2F-DF61A8860691-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource FlaggedHeader.png build/Debug/CocoaSlideShow.app/Contents/Resources/FlaggedHeader.png
+s415637302.962177
+e415637302.965209
+r1
+xCpResource
+xFlaggedHeader.png
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/FlaggedHeader.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/FlaggedHeader.png104"[1mCpResource[0m FlaggedHeader.png build/Debug/CocoaSlideShow.app/Contents/Resources/FlaggedHeader.pngb059f6361fc6b841^8b1bf7361fc6b841^---0#0#1#-19%DVTDocumentLocation2@123"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/FlaggedHeader.png0038b0e9dcffdf42^538"[1mCpResource[0m FlaggedHeader.png build/Debug/CocoaSlideShow.app/Contents/Resources/FlaggedHeader.png    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/FlaggedHeader.png /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"BA0471EC-50B4-4688-B94F-439690A72C10-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource add.png build/Debug/CocoaSlideShow.app/Contents/Resources/add.png
+s415637302.979529
+e415637302.981548
+r1
+xCpResource
+xadd.png
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/add.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/add.png84"[1mCpResource[0m add.png build/Debug/CocoaSlideShow.app/Contents/Resources/add.png92ccfa361fc6b841^3352fb361fc6b841^---0#0#1#-19%DVTDocumentLocation2@113"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/add.png0038b0e9dcffdf42^508"[1mCpResource[0m add.png build/Debug/CocoaSlideShow.app/Contents/Resources/add.png    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/add.png /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"CA3C2D0C-E0EC-4C41-AA57-80C5AC4A6AD2-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource css_dsa_pub.pem build/Debug/CocoaSlideShow.app/Contents/Resources/css_dsa_pub.pem
+s415637302.991486
+e415637302.993906
+r1
+xCpResource
+xcss_dsa_pub.pem
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/css_dsa_pub.pem
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/css_dsa_pub.pem100"[1mCpResource[0m css_dsa_pub.pem build/Debug/CocoaSlideShow.app/Contents/Resources/css_dsa_pub.pem1edcfd361fc6b841^1479fe361fc6b841^---0#0#1#-19%DVTDocumentLocation2@121"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/css_dsa_pub.pem0038b0e9dcffdf42^532"[1mCpResource[0m css_dsa_pub.pem build/Debug/CocoaSlideShow.app/Contents/Resources/css_dsa_pub.pem    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/css_dsa_pub.pem /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"AC303B1D-CA1C-4A46-A715-6ED10A65871E-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource flag.png build/Debug/CocoaSlideShow.app/Contents/Resources/flag.png
+s415637302.976333
+e415637302.978395
+r1
+xCpResource
+xflag.png
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/flag.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/flag.png86"[1mCpResource[0m flag.png build/Debug/CocoaSlideShow.app/Contents/Resources/flag.pngc6fbf9361fc6b841^af78fa361fc6b841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/flag.png0038b0e9dcffdf42^511"[1mCpResource[0m flag.png build/Debug/CocoaSlideShow.app/Contents/Resources/flag.png    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/flag.png /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"1877AB80-030D-4417-BCA0-065BDA3344F0-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource folder.png build/Debug/CocoaSlideShow.app/Contents/Resources/folder.png
+s415637302.976555
+e415637302.979302
+r1
+xCpResource
+xfolder.png
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/folder.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/folder.png90"[1mCpResource[0m folder.png build/Debug/CocoaSlideShow.app/Contents/Resources/folder.pnge607fa361fc6b841^6bbafa361fc6b841^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/folder.png0038b0e9dcffdf42^517"[1mCpResource[0m folder.png build/Debug/CocoaSlideShow.app/Contents/Resources/folder.png    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/folder.png /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"451EC2F1-DA3E-4515-8B7D-8A2BC0F51176-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource fullscreen.png build/Debug/CocoaSlideShow.app/Contents/Resources/fullscreen.png
+s415637302.972918
+e415637302.976100
+r1
+xCpResource
+xfullscreen.png
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/fullscreen.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/fullscreen.png98"[1mCpResource[0m fullscreen.png build/Debug/CocoaSlideShow.app/Contents/Resources/fullscreen.png8735f9361fc6b841^58e2f9361fc6b841^---0#0#1#-19%DVTDocumentLocation2@120"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/fullscreen.png0038b0e9dcffdf42^529"[1mCpResource[0m fullscreen.png build/Debug/CocoaSlideShow.app/Contents/Resources/fullscreen.png    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/fullscreen.png /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"7E28C0C7-1438-458A-A495-A3E139A61291-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource gmap.html build/Debug/CocoaSlideShow.app/Contents/Resources/gmap.html
+s415637302.982957
+e415637302.986600
+r1
+xCpResource
+xgmap.html
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/gmap.html
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/gmap.html88"[1mCpResource[0m gmap.html build/Debug/CocoaSlideShow.app/Contents/Resources/gmap.htmlb4acfb361fc6b841^50a7fc361fc6b841^---0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/gmap.html0038b0e9dcffdf42^514"[1mCpResource[0m gmap.html build/Debug/CocoaSlideShow.app/Contents/Resources/gmap.html    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/gmap.html /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"DB9B1893-A906-4C71-AD32-F9EFD27E65CA-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource gmap.png build/Debug/CocoaSlideShow.app/Contents/Resources/gmap.png
+s415637302.979804
+e415637302.983260
+r1
+xCpResource
+xgmap.png
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/gmap.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/gmap.png86"[1mCpResource[0m gmap.png build/Debug/CocoaSlideShow.app/Contents/Resources/gmap.png6edcfa361fc6b841^1fbffb361fc6b841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/gmap.png0038b0e9dcffdf42^511"[1mCpResource[0m gmap.png build/Debug/CocoaSlideShow.app/Contents/Resources/gmap.png    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/gmap.png /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"3419CE60-0746-4270-BCBC-3A8122B12DA9-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource left.png build/Debug/CocoaSlideShow.app/Contents/Resources/left.png
+s415637302.972988
+e415637302.975169
+r1
+xCpResource
+xleft.png
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/left.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/left.png86"[1mCpResource[0m left.png build/Debug/CocoaSlideShow.app/Contents/Resources/left.png921ff9361fc6b841^f0a4f9361fc6b841^---0#0#1#-19%DVTDocumentLocation2@114"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/left.png0038b0e9dcffdf42^511"[1mCpResource[0m left.png build/Debug/CocoaSlideShow.app/Contents/Resources/left.png    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/left.png /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"81755C01-5863-4760-8C55-D89A8CBC625C-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource remove.png build/Debug/CocoaSlideShow.app/Contents/Resources/remove.png
+s415637302.969643
+e415637302.972665
+r1
+xCpResource
+xremove.png
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/remove.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/remove.png90"[1mCpResource[0m remove.png build/Debug/CocoaSlideShow.app/Contents/Resources/remove.png2d43f8361fc6b841^3b01f9361fc6b841^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/remove.png0038b0e9dcffdf42^517"[1mCpResource[0m remove.png build/Debug/CocoaSlideShow.app/Contents/Resources/remove.png    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/remove.png /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"AE441C23-FB46-43C1-AF3C-8188F593276F-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource right.png build/Debug/CocoaSlideShow.app/Contents/Resources/right.png
+s415637302.965328
+e415637302.967300
+r1
+xCpResource
+xright.png
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/right.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/right.png88"[1mCpResource[0m right.png build/Debug/CocoaSlideShow.app/Contents/Resources/right.pnga229f7361fc6b841^6ea1f7361fc6b841^---0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/right.png0038b0e9dcffdf42^514"[1mCpResource[0m right.png build/Debug/CocoaSlideShow.app/Contents/Resources/right.png    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/right.png /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"966BAB63-AD6F-4285-BDED-AD1A3C7FA255-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource slideshow.png build/Debug/CocoaSlideShow.app/Contents/Resources/slideshow.png
+s415637302.965413
+e415637302.968281
+r1
+xCpResource
+xslideshow.png
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/slideshow.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/slideshow.png96"[1mCpResource[0m slideshow.png build/Debug/CocoaSlideShow.app/Contents/Resources/slideshow.png802df7361fc6b841^c9e5f7361fc6b841^---0#0#1#-19%DVTDocumentLocation2@119"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/slideshow.png0038b0e9dcffdf42^526"[1mCpResource[0m slideshow.png build/Debug/CocoaSlideShow.app/Contents/Resources/slideshow.png    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/slideshow.png /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"9298AC7E-7B67-4D4E-8DEE-4221730B90C3-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CCpResource trash.png build/Debug/CocoaSlideShow.app/Contents/Resources/trash.png
+s415637302.969617
+e415637302.971738
+r1
+xCpResource
+xtrash.png
+xbuild/Debug/CocoaSlideShow.app/Contents/Resources/trash.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Debug/CocoaSlideShow.app/Contents/Resources/trash.png88"[1mCpResource[0m trash.png build/Debug/CocoaSlideShow.app/Contents/Resources/trash.pngc842f8361fc6b841^9fc7f8361fc6b841^---0#0#1#-19%DVTDocumentLocation2@115"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources/trash.png0038b0e9dcffdf42^514"[1mCpResource[0m trash.png build/Debug/CocoaSlideShow.app/Contents/Resources/trash.png    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/trash.png /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Resources36"E7549B92-09D0-417F-993B-F99E1F76DEE7-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CLd /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/MacOS/CocoaSlideShow normal i386
+s415637302.890566
+e415637302.948032
+r1
+xLd
+x/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/MacOS/CocoaSlideShow
+xnormal
+xi386
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CocoaSlideShow.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/lib/crt1.10.6.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/main.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppleRemote.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/HIDRemoteControlDevice.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/RemoteControl.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSFileManager+CSS.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSWindow.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageInfo.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSString+CSS.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/ImagesController.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/AppDelegate+Toolbar.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSImageView.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSMapController.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CSSBorderlessWindow.o
+d/Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/NSImage+CSS.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Carbon
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/WebKit.framework/WebKit
+d/Volumes/SHARED/alehouse/CocoaSlideShow/Sparkle.framework/Sparkle
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Quartz
+d/Volumes/SHARED/alehouse/CocoaSlideShow/Epeg.framework/Epeg
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.eprintf.a
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuartzComposer.framework/Versions/A/QuartzComposer
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/PDFKit.framework/Versions/A/PDFKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuartzFilters.framework/Versions/A/QuartzFilters
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/ImageKit.framework/Versions/A/ImageKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Quartz.framework/Versions/A/Frameworks/QuickLookUI.framework/Versions/A/QuickLookUI
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/lib/system/libmathCommon.A.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CarbonSound.framework/Versions/A/CarbonSound
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HTMLRendering.framework/Versions/A/HTMLRendering
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/NavigationServices.framework/Versions/A/NavigationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebCore.framework/Versions/A/WebCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuickLook.framework/QuickLook
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreText.framework/Versions/A/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CFNetwork.framework/Versions/A/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Link /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/MacOS/CocoaSlideShow83"[1mLd[0m build/Debug/CocoaSlideShow.app/Contents/MacOS/CocoaSlideShow normal i386a209e4361fc6b841^9eb2f2361fc6b841^---0#0#1#--1385"[1mLd[0m build/Debug/CocoaSlideShow.app/Contents/MacOS/CocoaSlideShow normal i386    cd /Volumes/SHARED/alehouse/CocoaSlideShow    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -L/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/PrivateFrameworks -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -F/Volumes/SHARED/alehouse/CocoaSlideShow -filelist /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CocoaSlideShow.LinkFileList -mmacosx-version-min=10.7 -fobjc-link-runtime -framework Cocoa -framework IOKit -framework Carbon -framework WebKit -framework Sparkle -framework Sparkle -framework Quartz -framework Epeg -Xlinker -dependency_info -Xlinker /Volumes/SHARED/alehouse/CocoaSlideShow/build/CocoaSlideShow.build/Debug/CocoaSlideShow.build/Objects-normal/i386/CocoaSlideShow_dependency_info.dat -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/MacOS/CocoaSlideShow36"087D846D-4E20-4034-8522-1AB4C4E20470-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CPBXCp Epeg.framework build/Debug/CocoaSlideShow.app/Contents/Frameworks/Epeg.framework
+s415637303.481833
+e415637303.514171
+r1
+xPBXCp
+xEpeg.framework
+xbuild/Debug/CocoaSlideShow.app/Contents/Frameworks/Epeg.framework
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug/CocoaSlideShow.app/Contents/Frameworks/Epeg.framework94"[1mPBXCp[0m Epeg.framework build/Debug/CocoaSlideShow.app/Contents/Frameworks/Epeg.frameworkd4637b371fc6b841^7fa183371fc6b841^-292"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -S /Volumes/SHARED/alehouse/CocoaSlideShow/Epeg.framework/Versions/A/Epeg -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Frameworks/Epeg.framework/Versions/A/Epeg-0#0#1#-19%DVTDocumentLocation2@121"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Frameworks/Epeg.framework0038b0e9dcffdf42^526"[1mPBXCp[0m Epeg.framework build/Debug/CocoaSlideShow.app/Contents/Frameworks/Epeg.framework    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/Epeg.framework /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Frameworks36"AE4BB23E-2E42-4077-B7FF-8A1F7F43BE84-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CPBXCp Sparkle.framework build/Debug/CocoaSlideShow.app/Contents/Frameworks/Sparkle.framework
+s415637303.481834
+e415637303.592532
+r1
+xPBXCp
+xSparkle.framework
+xbuild/Debug/CocoaSlideShow.app/Contents/Frameworks/Sparkle.framework
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy build/Debug/CocoaSlideShow.app/Contents/Frameworks/Sparkle.framework100"[1mPBXCp[0m Sparkle.framework build/Debug/CocoaSlideShow.app/Contents/Frameworks/Sparkle.framework06647b371fc6b841^ddb297371fc6b841^-630"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -S /Volumes/SHARED/alehouse/CocoaSlideShow/Sparkle.framework/Versions/A/Resources/relaunch -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/relaunch/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -S /Volumes/SHARED/alehouse/CocoaSlideShow/Sparkle.framework/Versions/A/Sparkle -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Frameworks/Sparkle.framework/Versions/A/Sparkle-0#0#1#-19%DVTDocumentLocation2@124"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Frameworks/Sparkle.framework0038b0e9dcffdf42^535"[1mPBXCp[0m Sparkle.framework build/Debug/CocoaSlideShow.app/Contents/Frameworks/Sparkle.framework    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Volumes/SHARED/alehouse/CocoaSlideShow/Sparkle.framework /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Frameworks36"8F7EC7A4-0ED5-4019-BA80-10CC8FB85291-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CProcessInfoPlistFile /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Info.plist /Volumes/SHARED/alehouse/CocoaSlideShow/Info.plist
+s415637301.448107
+e415637301.451971
+r1
+xProcessInfoPlistFile
+x/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Info.plist
+x/Volumes/SHARED/alehouse/CocoaSlideShow/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Process /Volumes/SHARED/alehouse/CocoaSlideShow/Info.plist98"[1mProcessInfoPlistFile[0m build/Debug/CocoaSlideShow.app/Contents/Info.plist [1mInfo.plist[0m43cb72351fc6b841^70b473351fc6b841^---0#0#1#-19%DVTDocumentLocation2@66"file://localhost/Volumes/SHARED/alehouse/CocoaSlideShow/Info.plist0000000000000000^458"[1mProcessInfoPlistFile[0m build/Debug/CocoaSlideShow.app/Contents/Info.plist [1mInfo.plist[0m    cd /Volumes/SHARED/alehouse/CocoaSlideShow    builtin-infoPlistUtility /Volumes/SHARED/alehouse/CocoaSlideShow/Info.plist -genpkginfo /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app/Contents/Info.plist36"8824EB17-1DC0-43AE-B63B-79CBAEDB0A44-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
+CTouch /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app
+s415637303.601409
+e415637303.605721
+r1
+xTouch
+x/Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Touch /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app44"[1mTouch[0m build/Debug/CocoaSlideShow.app8f009a371fc6b841^ba109b371fc6b841^---0#0#1#--185"[1mTouch[0m build/Debug/CocoaSlideShow.app    cd /Volumes/SHARED/alehouse/CocoaSlideShow    /usr/bin/touch -c /Volumes/SHARED/alehouse/CocoaSlideShow/build/Debug/CocoaSlideShow.app36"1E597D11-3999-4299-9138-F6E42F7704A2-
+b0AFA1010-69AD-4F35-932C-34E559A4F71E
+
